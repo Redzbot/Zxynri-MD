@@ -5,7 +5,7 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6283808221334'] //ganti pakai nomormu biar bot berfungsi
 global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
 
